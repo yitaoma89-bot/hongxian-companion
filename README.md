@@ -4,7 +4,7 @@ Mac 桌面伴侣：人物动画、窗口挂靠、定时提醒、语音、全局�
 
 ## 下载
 
-[打开最新发布页](https://github.com/yitaoma89-bot/hongxian-companion/releases/latest)，在 Assets 中下载 `最强红线仙-2.1.0-Mac-Apple芯片.zip`。
+[打开最新发布页](https://github.com/yitaoma89-bot/hongxian-companion/releases/latest)，在 Assets 中下载 `Hongxian-2.1.0-macOS-AppleSilicon.zip`。
 
 支持 Apple 芯片 Mac（M 系列），最低 macOS 14。内置运行环境，无需另装 Python。解压后将应用拖到“应用程序”文件夹。详细功能见 ZIP 内附的“使用说明.html”。
 
